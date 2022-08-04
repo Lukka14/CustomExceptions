@@ -1,0 +1,13 @@
+2022-08-04 17:59:20.006 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 18:00:01.714 [main] WARN  exceptions.InvalidEraException - Exception generated. message:
+You must use BC or AD
+2022-08-04 18:00:17.588 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 18:00:46.722 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 18:06:53.673 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 18:08:01.923 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 19:57:49.946 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 19:58:22.199 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 19:58:41.299 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 19:59:45.967 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 20:00:01.743 [main] INFO  initial.App - HumanAge closed.
+2022-08-04 20:00:29.056 [main] INFO  initial.App - HumanAge closed.
