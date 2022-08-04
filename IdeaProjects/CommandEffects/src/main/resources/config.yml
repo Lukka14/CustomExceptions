@@ -1,7 +1,0 @@
-home:
-  sound: "BLOCK_BELL_USE"
-  particles: "DRAGON_BREATH"
-  message:
-    - &d this is a chat message
-    - &a second chat message
-    - &b another message!

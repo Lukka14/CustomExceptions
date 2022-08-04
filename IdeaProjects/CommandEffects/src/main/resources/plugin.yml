@@ -1,8 +1,0 @@
-name: CommandEffects
-version: '${project.version}'
-main: me.chalmano.commandeffects.CommandEffects
-api-version: 1.18
-authors: [ Chalmano ]
-commands:
-  ce:
-    description: reload the plugin
